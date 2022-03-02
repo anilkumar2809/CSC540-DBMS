@@ -64,6 +64,7 @@ public class App {
                 switch(option){
                     case 1:
                         informationProcessing();
+                        System.out.Prinltn(":wIP");
                         break;
                     case 2:
                         maintainingInventoryRecords();
