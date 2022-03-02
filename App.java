@@ -68,6 +68,7 @@ public class App {
                         break;
                     case 2:
                         maintainingInventoryRecords();
+                        System.out.Prinltn(":wIP");
                         break;
                     case 3:
                         maintainingBillsAndTransactionRecords();
